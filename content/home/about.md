@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "機械学習/深層学習",
+    "自然言語処理/画像認識",
+    "関数型言語",
+    "ソフトウェアアーキテクチャ"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "統計検定2級"
+  institution = "統計質保証推進協会"
+  year = 2017.11
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "理学部物理系 学士"
+  institution = "京都大学"
+  year = 2012.3
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+データアナリスト、ソフトウェアエンジニア
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+新卒後、iOSエンジニアとしてのキャリアをスタート
+
+クラスメソッド株式会社にJoin後はSwiftを用いた開発や、サーバサイドAPIをScalaで開発
+
+高校・大学で学んだ数理系の知識を活かすべく、データアナリストとしてDATUM STUDIO株式会社にJoin
+
+自然言語処理・画像認識系のプロジェクトを中心に、機械学習/深層学習の技術検証・論文実装・システム組み込みを行っている.

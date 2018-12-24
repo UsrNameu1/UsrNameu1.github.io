@@ -4,8 +4,8 @@ widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent & Upcoming Talks"
-subtitle = ""
+title = "Slides"
+subtitle = "発表資料一覧"
 
 # Order that this section will appear in.
 weight = 30
@@ -23,3 +23,5 @@ list_format = 2
 exclude_selected = false
 +++
 
+- [Speaker Deck/Yad](https://speakerdeck.com/usrnameu1)
+- [Slideshare/Yuichi Adachi](https://www.slideshare.net/UsrNameu1/presentations)

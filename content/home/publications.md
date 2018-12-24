@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "出版物"
 
 # Order that this section will appear in.
 weight = 20
@@ -37,3 +37,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+- [やってみよう！　Macでプログラミング　Swift/C/Javaを身に付ける（日経BP Next ICT選書）](https://www.amazon.co.jp/dp/B019O8NLJK)
