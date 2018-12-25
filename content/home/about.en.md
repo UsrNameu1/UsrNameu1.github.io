@@ -33,7 +33,7 @@ weight = 5
 
 Data Analyst, Software Engineer
 
-With first working career as an iOS developer, I have worked on many division of software development including mobile client side, server side application, infrastructure as a code.
+With first working career as an iOS developer, I have worked on many divisions on software development including mobile client side, server side application, infrastructure as a code.
 
 Over 3+ years of experience developing iOS mobile application using Objective-C, Swift.
 
