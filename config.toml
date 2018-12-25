@@ -29,8 +29,8 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguage = "ja"
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "yad.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "suugakugirai_sinkoutyuu[あっと]hotmail.co.jp"
+  email = "yad.workin[あっと]gmail.com"
   address = "東京都新宿区"
   # office_hours = """
   # Monday 10:00 to 13:00\\
@@ -341,12 +341,16 @@ enableGitInfo = false
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[languages.en]
+[languages.ja]
   languageCode = "ja-JP"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
+[languages.en]
+  languageCode = "en-US"
+
+[languages.en.params]
+  email = "yad.workin[at]gmail.com"
+  address = "Shinjuku-ku, Tokyo"
 #  title = "Chinese website title..."
 #  [languages.zh.params]
 #    name = "Your name in Chinese..."
