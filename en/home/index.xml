@@ -2,67 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on yad</title>
-    <link>/home/</link>
+    <link>/en/home/</link>
     <description>Recent content in Homes on yad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language>
+    <language>en-US</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>/en/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>Biography データアナリスト、ソフトウェアエンジニア 新卒後、iOSエンジニアとしてのキャリアをスタート クラスメソッド株式会社にJoin後はSwiftを</description>
+      <guid>/en/home/about/</guid>
+      <description>Biography Data Analyst, Software Engineer
+With first working career as an iOS developer, I have worked on many division of software development including mobile client side, server side application, infrastructure as a code.
+Over 3+ years of experience developing iOS mobile application using Objective-C, Swift.
+2 years of experience developing server side API application with Scala.
+To leverage on my strength in mathematical application fields at university, I have changed my job to data analyst.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/home/experience/</link>
+      <link>/en/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>/en/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>/home/posts/</link>
+      <link>/en/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>/en/home/posts/</guid>
       <description>Qiita/yad DATUM STUDIOブログ/pythonによる日本語前処理備忘録 Codezine/「アップルの新プログラミング言語「Swift」を探検しよう」 Developers.IO/yad</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>/en/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>/en/home/publications/</guid>
       <description>やってみよう！ Macでプログラミング Swift/C/Javaを身に付ける（日経BP Next ICT選書）</description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/home/talks/</link>
+      <link>/en/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/home/talks/</guid>
-      <description>Speaker Deck/Yad Slideshare/Yuichi Adachi</description>
+      <guid>/en/home/talks/</guid>
+      <description> Speaker Deck/Yad Slideshare/Yuichi Adachi  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>/en/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>/en/home/contact/</guid>
       <description></description>
     </item>
     
