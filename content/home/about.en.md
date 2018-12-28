@@ -37,7 +37,7 @@ With first working career as an iOS developer, I have worked on many divisions a
 
 Over 3+ years of experience developing iOS mobile application using Objective-C, Swift.
 
-About 2 years of experience developing server side API application with Scala.
+Over 1+ years of experience developing server side API application with Scala.
 
 To leverage on my strength in mathematical application fields at university, I have changed my job to data analyst.
 
