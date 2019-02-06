@@ -27,6 +27,11 @@ date_format = "January 2006"
   date_end = ""
   description = """
 
+■ Implementation for the article for route matching on GPS point (Python/Geospatial Analysis)
+
+- Implement the method on the article using a time series model to match the route for observed GPS points
+
+<br>
 ■ Implementation for the article about LIDER sensor image recognition (Python/CV)
 
 - Survey article on detecting road obstacles with its implementation
@@ -36,7 +41,6 @@ date_format = "January 2006"
 
 - Segmentation of images using deep learning to detect region of some kind of building on geo photograph
 - Proof of concept and implementation of articles on property state classification model using deep learning
-- Software environment construction with docker to get these model work on actual system
 
 <br>
 ■ Improvement of call center (Python/NLP)
