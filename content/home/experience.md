@@ -18,15 +18,35 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "アルゴリズムエンジニア"
+  company = "MNTSQ株式会社"
+  company_url = "https://mntsq.co.jp/"
+  location = "Tokyo"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+
+■ 法務デューデリジェンスを効率化するプロダクトのアルゴリズム開発業務
+
+- 契約書テキストに対する固有表現抽出ロジック、機械学習分類モデルの検証、開発
+
+"""
 [[experience]]
   title = "データアナリスト"
   company = "DATUM STUDIO株式会社"
   company_url = "https://datumstudio.jp/"
   location = "Tokyo"
   date_start = "2017-03-01"
-  date_end = ""
+  date_end = "2019-09-30"
   description = """
 
+■ 姿勢推定データに関する復元論文実装（Python/姿勢推定）
+
+- 姿勢推定欠損データを復元するモデルの論文実装と検証
+
+<br>
 ■ GPS観測データに対する論文実装（Python/地理情報）
 
 - 時系列モデルを用いたGPS観測データに対する経路推定モデル実装

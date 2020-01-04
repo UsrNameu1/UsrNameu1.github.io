@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning/Deep Learning",
     "Natural Language Processing/Computer Vision",
-    "Functional Programming Language",
-    "Software Architecture"
+    "Machine Learning/Deep Learning",
+    "Software Architecture",
+    "Functional Programming Language"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,4 +41,6 @@ Over 1+ years of experience developing server side API application with Scala.
 
 To leverage on my strength in mathematical application fields at university, I have changed my job to data analyst.
 
-About 2 years of experience implementing standard or article methods on Machine Learning(ML)/Deep Learning(DL) in Natural Language Processing(NLP)/Computer Vision(CV) projects as a data analyst.
+2 and a half years of experience implementing standard or article methods on Machine Learning(ML)/Deep Learning(DL) in Natural Language Processing(NLP)/Computer Vision(CV) projects as a data analyst.
+
+Now engaging in text mining part of legal DD product MNTSQ.

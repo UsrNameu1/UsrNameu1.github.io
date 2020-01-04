@@ -18,15 +18,35 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Algorithm Engineer"
+  company = "MNTSQ, Ltd."
+  company_url = "https://mntsq.co.jp/"
+  location = "Tokyo"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+
+■ Development of the product to improve Legal DD efficiency
+
+- Verification and development on entity extraction logic and machine learning model for texts on contracts.
+
+"""
 [[experience]]
   title = "Data Analyst"
   company = "DATUM STUDIO Co. Ltd."
   company_url = "https://datumstudio.jp/"
   location = "Tokyo"
   date_start = "2017-03-01"
-  date_end = ""
+  date_end = "2019-09-30"
   description = """
 
+■ Implementation for the article on reconstructing pose estimation data (Python/Pose estimation)
+
+- Implement and verify the method on the article related to pose estimation data reconstruction.
+
+<br>
 ■ Implementation for the article for route matching on GPS point (Python/Geospatial Analysis)
 
 - Implement the method on the article using a time series model to match the route for observed GPS points
