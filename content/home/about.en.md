@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Natural Language Processing/Computer Vision",
-    "Machine Learning/Deep Learning",
     "Software Architecture",
+    "Machine Learning/Deep Learning",
+    "Natural Language Processing/Computer Vision",
     "Functional Programming Language"
   ]
 

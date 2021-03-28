@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "自然言語処理/画像認識",
-    "機械学習/深層学習",
     "ソフトウェアアーキテクチャ",
+    "機械学習/深層学習",
+    "自然言語処理/画像認識",
     "関数型言語"
   ]
 
