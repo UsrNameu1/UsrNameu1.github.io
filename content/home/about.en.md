@@ -33,7 +33,7 @@ weight = 5
 
 Data Analyst, Software Engineer
 
-With first working career as an iOS developer, I have worked on many divisions at software development including mobile client side, server side application, infrastructure as a code.
+With first working career as an iOS developer, I have worked on many divisions at software development including mobile client side, server side application, and infrastructure as a code.
 
 Over 3+ years of experience developing iOS mobile application using Objective-C, Swift.
 
@@ -41,6 +41,6 @@ Over 1+ years of experience developing server side API application with Scala.
 
 To leverage on my strength in mathematical application fields at university, I have changed my job to data analyst.
 
-2 and a half years of experience implementing standard or article methods on Machine Learning(ML)/Deep Learning(DL) in Natural Language Processing(NLP)/Computer Vision(CV) projects as a data analyst.
+2.5 years of experience implementing standard or article methods on Machine Learning(ML)/Deep Learning(DL) in Natural Language Processing(NLP)/Computer Vision(CV) projects as a data analyst.
 
-Now engaging in text mining part of legal DD product MNTSQ.
+Now engaging in text mining part of Legal product MNTSQ.

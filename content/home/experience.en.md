@@ -28,9 +28,11 @@ date_format = "January 2006"
   date_end = ""
   description = """
 
-■ Development of the product to improve Legal DD efficiency
+■ Developing the SaaS product to manage contracts at legal departments or for double checking on Legal DD processes (Python)
 
-- Verification and development on entity extraction logic and machine learning model for texts on contracts.
+- Verification and development on entity extraction logic and machine learning model for texts on contracts (also for english text data).
+- Utilize the verification process of machine learning model
+- Operation and maintenance for existing python software
 
 """
 [[experience]]
@@ -45,6 +47,12 @@ date_format = "January 2006"
 ■ Implementation for the article on reconstructing pose estimation data (Python/Pose estimation)
 
 - Implement and verify the method on the article related to pose estimation data reconstruction.
+
+<br>
+■ Architecting the image processing system infrastructure on AWS (Terraform / AWS)
+
+- Development of the terraform code for building infrastructure to process the images on dashboard camera
+- Management of team members on software development
 
 <br>
 ■ Implementation for the article for route matching on GPS point (Python/Geospatial Analysis)
@@ -94,7 +102,7 @@ date_format = "January 2006"
 <br>
 ■ Develop iPad application to make a mind map (Objective-C)
 <br>
-■ Develop iOS application to connect the portal site (Objective-C)
+■ Develop iOS application to connect the medical portal site (Objective-C)
 
 """
 
